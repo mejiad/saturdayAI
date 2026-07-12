@@ -1,0 +1,1 @@
+insert into customer (id, name , phone, lastname) values (0, "Daniel", "555234523", "Mejia");

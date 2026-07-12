@@ -1,0 +1,1 @@
+export TELEGRAM_BOT_TOKEN=1829941943:AAEt8k_QMFZklTKtR15-m2ddspux-xUyb_s
